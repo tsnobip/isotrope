@@ -1,0 +1,33 @@
+{
+  "name": "isotrope",
+  "version": "0.1.0",
+  "reason": {
+    "react-jsx": 3
+  },
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    },
+    {
+      "dir": "example",
+      "type": "dev"
+    }
+  ],
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": false
+  },
+  "suffix": ".bs.js",
+  "namespace": "isotrope",
+  "bs-dependencies": [
+    "reason-react"
+  ],
+  "bs-dev-dependencies": [
+    "@anuragsoni/routes"
+  ],
+  "warnings": {
+    "error": "+101"
+  },
+  "refmt": 3
+}

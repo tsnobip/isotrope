@@ -1,11 +1,15 @@
 # Isotrope
 
-Isotrope is a very basic experiment of a safe bi-directional router in ReasonReact thanks to [@anuragsoni/routes](https://github.com/anuragsoni/routes) awesome routing lib.
+Isotrope is a very basic experiment of a safe bi-directional router in ReasonReact thanks to [@anuragsoni/routes](https://github.com/anuragsoni/routes) awesome routing lib. 
+
+Define your routes once and use them both ways.
 
 ## Install
 ```
 yarn add @tsnobip/isotrope @anuragsoni/routes
 ```
+
+And add `@tsnobip/isotrope` and `@anuragsoni/routes` to the `bs-dependencies` of `bsconfig.json`.
 
 ## Usage
 

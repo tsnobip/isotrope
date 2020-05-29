@@ -1,6 +1,6 @@
 {
   "name": "@tsnobip/isotrope",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a bi-directional router for ReasonReact",
   "repository": "git+https://github.com/tsnobip/isotrope.git",
   "author": "Paul Tsnobiladzé <paul.tsnobiladze@gmail.com>",
